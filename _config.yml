@@ -1,0 +1,28 @@
+name: Weiner Family Studios
+favicon: null
+layout_spectrum: 0.38110086624510586
+typography_spectrum: 0.6349413224961609
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.24558147159405053
+  lightness: 0.568130059633404
+  saturation: 0.2381573913153261
+  rhythmicContrast: 0.7622784313280135
+purpose: []
