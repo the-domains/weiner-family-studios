@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Weiner Family Studios]]></title>
+        <description><![CDATA[Weiner Family Studios]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 01 Mar 2016 04:26:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Once again we made our yearly trek to DC to work with ACT on issues that affect our development community. This year we focused primarily on Mobile Privacy, STEM, H1-B Visas, Intellectual Property, Robust Networks. While our group is International, many of the issues covered were specific to US concerns. However Privacy and IP affect all of us. It was great to see so many people from our community. We had a strong presence this year.</p>]]></description>
+            <link>undefined56e156d2-4f97-4518-9d70-765f800e5511/index.html</link>
+            <guid isPermaLink="false">56e156d2-4f97-4518-9d70-765f800e5511</guid>
+            <pubDate>Tue, 01 Mar 2016 04:26:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
